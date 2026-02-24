@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "輪廻",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-24T14:12:43.349832Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輪廻",
+      "artist": "V.W.P",
+      "has_synced": false,
+      "path": "select/pl_01_輪廻_V.W.P.txt"
+    }
+  ]
+}
